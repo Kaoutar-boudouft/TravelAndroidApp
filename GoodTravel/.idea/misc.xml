@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/drawable/customborder.xml" value="0.18611111111111112" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/drawable/custominput.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/drawable/ic_baseline_flight_24.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/drawable/ic_baseline_lens_24.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/drawable/ic_baseline_train_24.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/drawable/roundedbtn.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/drawable/undraw_stranded.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_edite_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_home.xml" value="0.24583333333333332" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_home1.xml" value="0.176" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_introduce.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_one_tour.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_payment.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_reservation.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_reservation_tour.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_signin.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_splashscreen.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_tours.xml" value="0.1" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_travels.xml" value="0.24615384615384617" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_travels_recyclerview.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/activity_webticket.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/fragment_travel_by_bus.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/fragment_travel_by_flight.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/fragment_travel_by_train.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/onerow.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/layout/slide.xml" value="0.176" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/menu/bottom_navigation_outils.xml" value="0.25" />
+        <entry key="..\:/Users/Rachid/AndroidStudioProjects/GoodTravel/app/src/main/res/mipmap-anydpi-v26/usericon.xml" value="0.16111111111111112" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
